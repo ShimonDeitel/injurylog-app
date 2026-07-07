@@ -1,0 +1,31 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "10000001",
+      "localizations": [
+        {
+          "description": "Exportable PDF pain-trend report for your PT",
+          "displayName": "Injurylog Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.injurylog.pro",
+      "referenceName": "Injurylog Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_applicationInternalID": "0",
+    "_developerTeamID": "W7Q885Q59C",
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
